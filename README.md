@@ -44,8 +44,8 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ---
 
-## 🌟 About
+## 🌟 About me
 
 Hi there! I'm **Mayank Mewara**.
 
-I'm learning data and business analytics
+I'm learning data and business analytics 
